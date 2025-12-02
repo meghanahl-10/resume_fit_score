@@ -1,0 +1,51 @@
+job_id,title,required_skills,min_experience
+1,Full Stack Developer,"PowerBI, CI/CD, Excel",3
+2,AI Researcher,"Microservices, PyTorch, Java, Node.js, Spring Boot, C++",5
+3,ETL Developer,"React, TensorFlow, HTML",3
+4,Full Stack Developer,"Node.js, Excel, Kubernetes, PowerBI, Microservices",2
+5,DevOps Engineer,"Deep Learning, PowerBI, Python, Java, PyTorch, ETL",7
+6,Frontend Developer,"TensorFlow, Excel, Python, CSS, JavaScript",7
+7,Backend Developer,"Data Analysis, React, Kubernetes",7
+8,Full Stack Developer,"Node.js, JavaScript, TensorFlow",1
+9,DevOps Engineer,"PyTorch, TensorFlow, AWS, Node.js, CSS",5
+10,Cloud Engineer,"SQL, NLP, CI/CD, Kubernetes, Excel",3
+11,Embedded Systems Engineer,"ETL, SQL, HTML, Kubernetes, Node.js, NLP",5
+12,Backend Developer,"TensorFlow, SQL, Java, Python, ETL",3
+13,DevOps Engineer,"HTML, Kubernetes, Excel, Deep Learning",3
+14,Machine Learning Engineer,"Java, Microservices, Machine Learning, PowerBI, CSS",3
+15,Cloud Engineer,"HTML, CI/CD, AWS, Excel, Deep Learning",2
+16,Frontend Developer,"CSS, JavaScript, DevOps, HTML, Deep Learning",4
+17,ETL Developer,"Python, Spring Boot, JavaScript",2
+18,Frontend Developer,"HTML, Spring Boot, Python",3
+19,DevOps Engineer,"HTML, Machine Learning, Node.js, CI/CD, Docker, DevOps",2
+20,Full Stack Developer,"Java, Docker, Kubernetes, SQL",1
+21,Business Analyst,"TensorFlow, Docker, PyTorch",7
+22,DevOps Engineer,"Excel, C++, Microservices, Java, Deep Learning",1
+23,Cloud Engineer,"Data Analysis, Deep Learning, Spring Boot",7
+24,Data Scientist,"CI/CD, CSS, AWS",5
+25,Frontend Developer,"CI/CD, Kubernetes, Python, Spring Boot",4
+26,Embedded Systems Engineer,"Node.js, Machine Learning, Microservices, SQL, Docker, Data Analysis",7
+27,ETL Developer,"PyTorch, DevOps, Spring Boot",1
+28,Backend Developer,"HTML, Node.js, Kubernetes, Machine Learning",4
+29,Frontend Developer,"Python, Microservices, C++, NLP, CSS",6
+30,Business Analyst,"C++, Data Analysis, Kubernetes, Java, PyTorch",3
+31,Embedded Systems Engineer,"ETL, JavaScript, PowerBI, C++, NLP",4
+32,Full Stack Developer,"ETL, PyTorch, Excel, NLP, Kubernetes, Machine Learning",4
+33,NLP Engineer,"DevOps, NLP, Microservices",7
+34,ETL Developer,"CSS, Excel, DevOps, ETL, Docker, PyTorch",1
+35,DevOps Engineer,"DevOps, PyTorch, Docker, Data Analysis, React, Excel",2
+36,Embedded Systems Engineer,"AWS, CSS, Kubernetes, CI/CD, Python, Docker",4
+37,NLP Engineer,"Kubernetes, PyTorch, CI/CD, React, Python",6
+38,Machine Learning Engineer,"Python, NLP, Deep Learning, CSS, Data Analysis",5
+39,Business Analyst,"TensorFlow, Java, Deep Learning, Microservices",2
+40,Business Analyst,"PowerBI, AWS, Machine Learning",6
+41,DevOps Engineer,"PyTorch, SQL, Data Analysis, React, Spring Boot",2
+42,Business Analyst,"C++, PyTorch, Kubernetes, Data Analysis",1
+43,Embedded Systems Engineer,"Docker, Deep Learning, Node.js, CI/CD, Data Analysis, NLP",4
+44,Backend Developer,"Data Analysis, ETL, NLP, Kubernetes",7
+45,NLP Engineer,"Node.js, CI/CD, Python, DevOps, Data Analysis, CSS",5
+46,Embedded Systems Engineer,"C++, DevOps, SQL, Docker",1
+47,Backend Developer,"Java, PowerBI, Python, TensorFlow",2
+48,Backend Developer,"DevOps, Excel, Machine Learning",5
+49,Frontend Developer,"Data Analysis, PowerBI, DevOps, Machine Learning, Kubernetes",5
+50,AI Researcher,"Deep Learning, Microservices, AWS, DevOps, Data Analysis, Node.js",2

@@ -1,0 +1,1001 @@
+candidate_id,name,skills,experience_years,education
+1,Candidate_1,"AWS, CI/CD, Docker, Machine Learning",9,PhD
+2,Candidate_2,"C++, CI/CD, ETL, Data Analysis, AWS, Java",1,PhD
+3,Candidate_3,"CSS, Docker, JavaScript, ETL, Machine Learning, Node.js",9,Master
+4,Candidate_4,"PyTorch, Kubernetes, CI/CD",1,Bachelor
+5,Candidate_5,"Kubernetes, Microservices, Machine Learning, Docker, TensorFlow",3,PhD
+6,Candidate_6,"Microservices, Data Analysis, Excel, React, JavaScript",1,Master
+7,Candidate_7,"Spring Boot, PowerBI, Deep Learning",10,Bachelor
+8,Candidate_8,"Data Analysis, DevOps, Node.js, Excel, SQL",12,Bachelor
+9,Candidate_9,"JavaScript, TensorFlow, Microservices, Excel",1,Master
+10,Candidate_10,"Docker, Deep Learning, PowerBI, DevOps, JavaScript",2,Master
+11,Candidate_11,"Excel, Python, Node.js",9,Bachelor
+12,Candidate_12,"PyTorch, PowerBI, CI/CD, AWS",8,PhD
+13,Candidate_13,"PowerBI, Data Analysis, C++, CSS, Docker, Microservices",11,Master
+14,Candidate_14,"Data Analysis, Excel, JavaScript, SQL",1,Master
+15,Candidate_15,"Java, AWS, Kubernetes",9,PhD
+16,Candidate_16,"CSS, Python, PowerBI, Excel, Deep Learning",3,Master
+17,Candidate_17,"CSS, Kubernetes, Microservices, Deep Learning, AWS, React",9,PhD
+18,Candidate_18,"Kubernetes, C++, CI/CD, ETL, NLP, Java",7,Master
+19,Candidate_19,"JavaScript, Docker, Microservices",1,PhD
+20,Candidate_20,"ETL, Machine Learning, Excel, Data Analysis, SQL",2,PhD
+21,Candidate_21,"CSS, CI/CD, ETL",12,PhD
+22,Candidate_22,"Deep Learning, JavaScript, C++",7,PhD
+23,Candidate_23,"React, DevOps, TensorFlow, Excel",10,Master
+24,Candidate_24,"Python, React, NLP",10,PhD
+25,Candidate_25,"AWS, JavaScript, ETL, CI/CD",2,Master
+26,Candidate_26,"PowerBI, CI/CD, ETL",7,Master
+27,Candidate_27,"TensorFlow, ETL, CSS, HTML, AWS, Python",1,Bachelor
+28,Candidate_28,"Node.js, React, Deep Learning, Data Analysis, SQL",9,Master
+29,Candidate_29,"Python, Deep Learning, Data Analysis",8,PhD
+30,Candidate_30,"Node.js, Data Analysis, Microservices, Spring Boot, AWS",9,PhD
+31,Candidate_31,"Kubernetes, NLP, JavaScript",2,PhD
+32,Candidate_32,"Deep Learning, NLP, SQL",6,Bachelor
+33,Candidate_33,"ETL, PyTorch, JavaScript, React, CI/CD",11,Master
+34,Candidate_34,"Spring Boot, CI/CD, PowerBI, Data Analysis, JavaScript, Microservices",6,PhD
+35,Candidate_35,"CSS, TensorFlow, JavaScript, PowerBI, Machine Learning, Python",5,PhD
+36,Candidate_36,"HTML, JavaScript, Java",9,Bachelor
+37,Candidate_37,"AWS, C++, TensorFlow",3,PhD
+38,Candidate_38,"Spring Boot, AWS, Deep Learning, JavaScript",2,Master
+39,Candidate_39,"TensorFlow, React, DevOps, Microservices",7,PhD
+40,Candidate_40,"PyTorch, PowerBI, Excel, React",1,PhD
+41,Candidate_41,"Docker, PowerBI, NLP, CI/CD",4,Master
+42,Candidate_42,"Machine Learning, SQL, CSS",1,Bachelor
+43,Candidate_43,"Java, PyTorch, Python",8,PhD
+44,Candidate_44,"Python, AWS, Spring Boot, PowerBI, C++, Excel",1,Master
+45,Candidate_45,"CI/CD, Microservices, PowerBI, Node.js, SQL, Machine Learning",5,PhD
+46,Candidate_46,"PowerBI, Java, NLP, SQL, Deep Learning, Spring Boot",11,Master
+47,Candidate_47,"Python, HTML, TensorFlow, Machine Learning",2,PhD
+48,Candidate_48,"PowerBI, Data Analysis, JavaScript, Node.js, AWS, Excel",4,Bachelor
+49,Candidate_49,"DevOps, AWS, SQL",8,Bachelor
+50,Candidate_50,"CI/CD, Java, Kubernetes, DevOps, ETL, Docker",7,Bachelor
+51,Candidate_51,"Node.js, TensorFlow, HTML, ETL, CSS",12,Bachelor
+52,Candidate_52,"Java, JavaScript, NLP",3,PhD
+53,Candidate_53,"Spring Boot, Deep Learning, Python, TensorFlow, NLP",10,PhD
+54,Candidate_54,"Data Analysis, React, Python, CSS, SQL",3,Master
+55,Candidate_55,"SQL, React, AWS, DevOps, Spring Boot, Python",1,Master
+56,Candidate_56,"CI/CD, Java, Machine Learning",2,PhD
+57,Candidate_57,"Python, Docker, CI/CD, React, DevOps, Node.js",12,Master
+58,Candidate_58,"CI/CD, Node.js, Spring Boot, Microservices, Deep Learning",1,Master
+59,Candidate_59,"JavaScript, ETL, Excel",11,PhD
+60,Candidate_60,"Spring Boot, PyTorch, JavaScript, PowerBI, Data Analysis",8,Bachelor
+61,Candidate_61,"Python, React, Microservices, PyTorch, CI/CD",2,Master
+62,Candidate_62,"DevOps, CI/CD, SQL, AWS, HTML",12,Master
+63,Candidate_63,"HTML, TensorFlow, AWS, Spring Boot",5,PhD
+64,Candidate_64,"Kubernetes, TensorFlow, AWS",1,PhD
+65,Candidate_65,"Deep Learning, Spring Boot, PowerBI, Java, JavaScript, Kubernetes",6,Bachelor
+66,Candidate_66,"Deep Learning, Node.js, Kubernetes",11,Bachelor
+67,Candidate_67,"Spring Boot, Machine Learning, C++, CSS",1,Bachelor
+68,Candidate_68,"Deep Learning, CI/CD, Docker",7,Bachelor
+69,Candidate_69,"PowerBI, NLP, Machine Learning, Node.js",1,Bachelor
+70,Candidate_70,"Deep Learning, PyTorch, React",8,Master
+71,Candidate_71,"Machine Learning, Node.js, Python, Kubernetes",3,Master
+72,Candidate_72,"Java, C++, PyTorch, Spring Boot",1,Master
+73,Candidate_73,"Machine Learning, CSS, CI/CD, Kubernetes, ETL, Java",2,Master
+74,Candidate_74,"SQL, Docker, Data Analysis, Microservices, Java, Spring Boot",4,PhD
+75,Candidate_75,"PowerBI, TensorFlow, React",5,Bachelor
+76,Candidate_76,"HTML, PowerBI, C++",12,PhD
+77,Candidate_77,"React, C++, SQL, Java, Microservices",11,Bachelor
+78,Candidate_78,"TensorFlow, Python, C++, HTML, React, Deep Learning",10,Bachelor
+79,Candidate_79,"Python, C++, Docker",2,PhD
+80,Candidate_80,"Machine Learning, Data Analysis, AWS",12,PhD
+81,Candidate_81,"Deep Learning, Docker, ETL, Node.js",7,PhD
+82,Candidate_82,"SQL, React, HTML",4,Bachelor
+83,Candidate_83,"Python, SQL, Spring Boot, NLP, Deep Learning, AWS",1,PhD
+84,Candidate_84,"PowerBI, TensorFlow, Microservices",10,Master
+85,Candidate_85,"HTML, TensorFlow, Docker, PowerBI, Spring Boot",3,Master
+86,Candidate_86,"Kubernetes, React, Python, Docker, SQL, CI/CD",1,Master
+87,Candidate_87,"Kubernetes, DevOps, Java, C++, SQL",6,Master
+88,Candidate_88,"Data Analysis, TensorFlow, PyTorch, JavaScript, HTML, CI/CD",4,PhD
+89,Candidate_89,"React, DevOps, TensorFlow, Data Analysis, PowerBI",10,Bachelor
+90,Candidate_90,"C++, JavaScript, AWS, PowerBI",11,Bachelor
+91,Candidate_91,"React, NLP, CSS",6,Master
+92,Candidate_92,"Docker, DevOps, Kubernetes",5,PhD
+93,Candidate_93,"ETL, DevOps, AWS, CI/CD, C++",7,Bachelor
+94,Candidate_94,"Data Analysis, Python, HTML, PyTorch, Excel",6,PhD
+95,Candidate_95,"React, C++, ETL, Python",10,PhD
+96,Candidate_96,"C++, SQL, CI/CD",6,Bachelor
+97,Candidate_97,"C++, CSS, Java, NLP",1,Master
+98,Candidate_98,"NLP, SQL, Deep Learning, C++, React",1,Bachelor
+99,Candidate_99,"C++, ETL, Java, Deep Learning, DevOps, Spring Boot",11,PhD
+100,Candidate_100,"Python, SQL, AWS, Machine Learning",2,PhD
+101,Candidate_101,"Java, Node.js, PyTorch, Excel",1,PhD
+102,Candidate_102,"Spring Boot, TensorFlow, PowerBI, HTML, Data Analysis",6,Master
+103,Candidate_103,"Docker, Excel, Machine Learning, PyTorch, DevOps, Data Analysis",6,Bachelor
+104,Candidate_104,"C++, Kubernetes, Java, React, Microservices",6,Bachelor
+105,Candidate_105,"Docker, Data Analysis, Deep Learning, NLP, Microservices, CI/CD",1,Bachelor
+106,Candidate_106,"Python, AWS, SQL, HTML",5,Bachelor
+107,Candidate_107,"C++, Java, Node.js, HTML, Kubernetes, ETL",6,Master
+108,Candidate_108,"TensorFlow, Java, SQL, Machine Learning",8,Master
+109,Candidate_109,"JavaScript, DevOps, Java, Python",6,Bachelor
+110,Candidate_110,"DevOps, ETL, Python, Excel, Node.js",1,Bachelor
+111,Candidate_111,"AWS, NLP, C++, SQL, Data Analysis",6,PhD
+112,Candidate_112,"React, TensorFlow, C++, Machine Learning, AWS",10,PhD
+113,Candidate_113,"CSS, React, PowerBI, ETL, Spring Boot, DevOps",8,Bachelor
+114,Candidate_114,"Node.js, Deep Learning, CI/CD, CSS",9,Bachelor
+115,Candidate_115,"DevOps, Java, HTML, Node.js, Excel",8,Master
+116,Candidate_116,"ETL, Docker, Machine Learning",7,Bachelor
+117,Candidate_117,"SQL, ETL, PowerBI, CSS, HTML, Python",4,PhD
+118,Candidate_118,"CI/CD, JavaScript, AWS, Data Analysis, Microservices, DevOps",10,Bachelor
+119,Candidate_119,"Python, CSS, AWS, Microservices",2,Bachelor
+120,Candidate_120,"Python, PyTorch, Machine Learning, AWS",5,Master
+121,Candidate_121,"Machine Learning, C++, ETL, Python",4,PhD
+122,Candidate_122,"React, Excel, C++",9,Master
+123,Candidate_123,"Deep Learning, NLP, ETL",10,PhD
+124,Candidate_124,"Java, SQL, Node.js, Data Analysis, AWS",11,PhD
+125,Candidate_125,"Docker, Spring Boot, SQL, Excel",8,Master
+126,Candidate_126,"NLP, Spring Boot, JavaScript, Machine Learning, AWS",4,Master
+127,Candidate_127,"JavaScript, ETL, Excel, TensorFlow",3,PhD
+128,Candidate_128,"CI/CD, Deep Learning, Machine Learning, C++, PyTorch, Excel",1,Bachelor
+129,Candidate_129,"React, Python, DevOps, Deep Learning, Kubernetes",8,Master
+130,Candidate_130,"HTML, DevOps, AWS, SQL, React",6,Bachelor
+131,Candidate_131,"CI/CD, C++, Data Analysis",8,Master
+132,Candidate_132,"Microservices, PowerBI, DevOps, Deep Learning, NLP",1,Bachelor
+133,Candidate_133,"DevOps, AWS, HTML, TensorFlow, PowerBI, Excel",12,PhD
+134,Candidate_134,"ETL, TensorFlow, CSS, CI/CD, Excel",9,Bachelor
+135,Candidate_135,"PyTorch, Microservices, Node.js, CI/CD, Spring Boot",2,PhD
+136,Candidate_136,"Python, CI/CD, Docker, DevOps, Node.js",5,Master
+137,Candidate_137,"JavaScript, PyTorch, CI/CD, Spring Boot",8,PhD
+138,Candidate_138,"Kubernetes, Python, SQL, React, JavaScript",4,PhD
+139,Candidate_139,"PyTorch, Java, Data Analysis, Deep Learning, Python",2,PhD
+140,Candidate_140,"ETL, TensorFlow, Microservices, HTML, SQL, Docker",5,Bachelor
+141,Candidate_141,"React, JavaScript, AWS, Microservices, SQL",1,Bachelor
+142,Candidate_142,"Deep Learning, AWS, TensorFlow",9,Bachelor
+143,Candidate_143,"Java, Excel, NLP, PowerBI",10,Bachelor
+144,Candidate_144,"JavaScript, Excel, C++",5,PhD
+145,Candidate_145,"Deep Learning, CSS, NLP, CI/CD",11,Master
+146,Candidate_146,"DevOps, Machine Learning, Spring Boot, JavaScript, HTML",8,PhD
+147,Candidate_147,"NLP, HTML, JavaScript, PyTorch, CI/CD, SQL",7,Bachelor
+148,Candidate_148,"JavaScript, Deep Learning, HTML, Docker, Machine Learning, CSS",2,Master
+149,Candidate_149,"CI/CD, Python, ETL, Java, HTML, Deep Learning",8,Bachelor
+150,Candidate_150,"Machine Learning, Excel, PowerBI, NLP, Spring Boot, Microservices",9,Master
+151,Candidate_151,"DevOps, AWS, React, Spring Boot, Microservices, NLP",8,Master
+152,Candidate_152,"Microservices, Node.js, Data Analysis, Spring Boot, Kubernetes",1,Master
+153,Candidate_153,"PyTorch, ETL, C++",9,Bachelor
+154,Candidate_154,"Kubernetes, Java, React, CSS",1,Master
+155,Candidate_155,"Python, HTML, CSS, Java, SQL, React",6,PhD
+156,Candidate_156,"AWS, NLP, TensorFlow, Python",5,Bachelor
+157,Candidate_157,"Docker, DevOps, CSS, React",9,Master
+158,Candidate_158,"Node.js, SQL, TensorFlow",1,Bachelor
+159,Candidate_159,"Data Analysis, React, C++, Kubernetes",3,PhD
+160,Candidate_160,"Java, SQL, TensorFlow, React, Docker",10,PhD
+161,Candidate_161,"AWS, Node.js, SQL",8,PhD
+162,Candidate_162,"DevOps, AWS, Microservices, Node.js, PowerBI, React",4,Bachelor
+163,Candidate_163,"HTML, Java, ETL",4,Master
+164,Candidate_164,"Docker, Spring Boot, ETL, CI/CD, Deep Learning",5,Bachelor
+165,Candidate_165,"DevOps, CSS, Java, PowerBI",10,PhD
+166,Candidate_166,"JavaScript, Spring Boot, DevOps",12,Bachelor
+167,Candidate_167,"AWS, SQL, TensorFlow, Machine Learning, HTML, JavaScript",4,Bachelor
+168,Candidate_168,"HTML, Python, CSS, PowerBI, AWS",8,Master
+169,Candidate_169,"PyTorch, React, C++, DevOps, TensorFlow, CI/CD",10,Bachelor
+170,Candidate_170,"Java, Deep Learning, Kubernetes, ETL, NLP",1,PhD
+171,Candidate_171,"ETL, AWS, Deep Learning",2,Bachelor
+172,Candidate_172,"Python, Machine Learning, ETL, JavaScript, Excel",9,PhD
+173,Candidate_173,"ETL, Kubernetes, JavaScript, TensorFlow",6,Bachelor
+174,Candidate_174,"Kubernetes, Microservices, Machine Learning, Deep Learning, Python",9,Bachelor
+175,Candidate_175,"Machine Learning, Excel, React",2,Master
+176,Candidate_176,"Machine Learning, AWS, DevOps, Microservices",12,PhD
+177,Candidate_177,"NLP, Python, AWS",8,Master
+178,Candidate_178,"TensorFlow, React, Java, Node.js, PowerBI",1,Master
+179,Candidate_179,"Microservices, HTML, ETL",9,PhD
+180,Candidate_180,"Excel, SQL, React",2,Master
+181,Candidate_181,"CSS, Node.js, JavaScript, Machine Learning",9,PhD
+182,Candidate_182,"DevOps, ETL, JavaScript, C++",11,Bachelor
+183,Candidate_183,"React, Docker, Java, Excel, Node.js, Machine Learning",7,Master
+184,Candidate_184,"React, Spring Boot, NLP, Deep Learning",1,Bachelor
+185,Candidate_185,"Docker, Deep Learning, CSS, Node.js",8,Master
+186,Candidate_186,"React, TensorFlow, PyTorch, Python, HTML",1,Bachelor
+187,Candidate_187,"PyTorch, Kubernetes, HTML, AWS, React",10,Master
+188,Candidate_188,"C++, Data Analysis, Machine Learning, Docker, Java",5,Master
+189,Candidate_189,"Machine Learning, Node.js, AWS, Kubernetes",1,Master
+190,Candidate_190,"DevOps, NLP, C++, AWS",5,Bachelor
+191,Candidate_191,"NLP, TensorFlow, Java",2,Bachelor
+192,Candidate_192,"Java, CI/CD, DevOps, C++",4,Master
+193,Candidate_193,"CI/CD, SQL, React, Data Analysis, PowerBI",11,Master
+194,Candidate_194,"CI/CD, Machine Learning, JavaScript, Excel",2,Bachelor
+195,Candidate_195,"Node.js, Microservices, Spring Boot, AWS, Data Analysis",3,PhD
+196,Candidate_196,"Kubernetes, Excel, HTML, Microservices, CSS, ETL",12,Master
+197,Candidate_197,"HTML, TensorFlow, AWS, CI/CD",4,PhD
+198,Candidate_198,"CSS, Node.js, C++, TensorFlow, DevOps, Data Analysis",10,Bachelor
+199,Candidate_199,"PowerBI, Microservices, JavaScript, Java, React, NLP",11,PhD
+200,Candidate_200,"PyTorch, Excel, NLP",2,PhD
+201,Candidate_201,"HTML, Java, Deep Learning",12,PhD
+202,Candidate_202,"Node.js, SQL, NLP, HTML, JavaScript",2,PhD
+203,Candidate_203,"C++, Node.js, Docker, TensorFlow, AWS",5,PhD
+204,Candidate_204,"AWS, Java, JavaScript",11,Master
+205,Candidate_205,"Node.js, JavaScript, Java",8,Bachelor
+206,Candidate_206,"HTML, Microservices, TensorFlow, Deep Learning, Data Analysis, PowerBI",10,PhD
+207,Candidate_207,"JavaScript, SQL, ETL",8,Master
+208,Candidate_208,"Kubernetes, JavaScript, Data Analysis, Docker, HTML, Excel",7,Bachelor
+209,Candidate_209,"PowerBI, HTML, JavaScript, Node.js",6,PhD
+210,Candidate_210,"AWS, C++, JavaScript, Deep Learning",12,PhD
+211,Candidate_211,"NLP, CSS, Node.js, Deep Learning, Kubernetes, HTML",7,Master
+212,Candidate_212,"PowerBI, Microservices, JavaScript",2,Master
+213,Candidate_213,"Excel, CSS, C++, Python",4,Bachelor
+214,Candidate_214,"Machine Learning, Microservices, NLP, PyTorch, Spring Boot, Data Analysis",11,Bachelor
+215,Candidate_215,"Docker, ETL, Microservices, AWS, Spring Boot",4,Bachelor
+216,Candidate_216,"React, CSS, Python, C++",5,Master
+217,Candidate_217,"CSS, AWS, PowerBI",4,PhD
+218,Candidate_218,"Kubernetes, ETL, Excel, Data Analysis, PyTorch, JavaScript",8,Bachelor
+219,Candidate_219,"JavaScript, TensorFlow, Kubernetes, React",1,Bachelor
+220,Candidate_220,"CSS, Python, Machine Learning, Kubernetes",8,Master
+221,Candidate_221,"Kubernetes, Java, Spring Boot",2,Master
+222,Candidate_222,"Microservices, Docker, Java, JavaScript, PyTorch, CI/CD",5,PhD
+223,Candidate_223,"React, Python, HTML",3,Master
+224,Candidate_224,"C++, ETL, JavaScript",11,Bachelor
+225,Candidate_225,"Spring Boot, Node.js, Docker, ETL, Machine Learning",2,Bachelor
+226,Candidate_226,"Data Analysis, PowerBI, HTML, CI/CD",8,Master
+227,Candidate_227,"PowerBI, Data Analysis, TensorFlow",8,Bachelor
+228,Candidate_228,"CSS, AWS, Docker",10,Master
+229,Candidate_229,"Machine Learning, Kubernetes, HTML, ETL, Deep Learning, Node.js",3,Bachelor
+230,Candidate_230,"JavaScript, HTML, AWS, Deep Learning",7,Bachelor
+231,Candidate_231,"AWS, Kubernetes, Machine Learning",3,Master
+232,Candidate_232,"Docker, React, PowerBI, TensorFlow, CSS, NLP",11,PhD
+233,Candidate_233,"Node.js, CI/CD, Spring Boot",5,Master
+234,Candidate_234,"Node.js, CSS, Machine Learning, Kubernetes",1,PhD
+235,Candidate_235,"PyTorch, JavaScript, React, Docker, Java, CSS",5,Master
+236,Candidate_236,"SQL, Excel, CI/CD, Docker, DevOps, ETL",3,Master
+237,Candidate_237,"Deep Learning, NLP, PowerBI, AWS",11,PhD
+238,Candidate_238,"PowerBI, ETL, Machine Learning, Python",6,PhD
+239,Candidate_239,"Deep Learning, Data Analysis, JavaScript, Python",3,Master
+240,Candidate_240,"Docker, Java, C++, Machine Learning, Node.js, AWS",4,Master
+241,Candidate_241,"Java, Microservices, Node.js, Docker, TensorFlow, NLP",11,PhD
+242,Candidate_242,"Deep Learning, C++, Python, Excel, Microservices",1,PhD
+243,Candidate_243,"CSS, Node.js, C++",9,Master
+244,Candidate_244,"TensorFlow, PyTorch, Microservices, SQL, CI/CD, NLP",12,Master
+245,Candidate_245,"Kubernetes, SQL, NLP",8,Master
+246,Candidate_246,"Deep Learning, AWS, DevOps, React, Data Analysis, JavaScript",7,Bachelor
+247,Candidate_247,"C++, Kubernetes, Java, Docker",8,Master
+248,Candidate_248,"Python, SQL, Data Analysis, CI/CD",4,PhD
+249,Candidate_249,"Docker, Data Analysis, JavaScript, Kubernetes, SQL, CSS",12,Master
+250,Candidate_250,"Data Analysis, ETL, Spring Boot",5,PhD
+251,Candidate_251,"C++, JavaScript, Spring Boot",5,PhD
+252,Candidate_252,"Docker, CSS, Python, React",9,PhD
+253,Candidate_253,"NLP, PyTorch, Docker, Excel, CI/CD",8,PhD
+254,Candidate_254,"DevOps, React, AWS, TensorFlow",10,Master
+255,Candidate_255,"TensorFlow, SQL, CI/CD, Node.js",2,PhD
+256,Candidate_256,"Docker, C++, Python, Data Analysis, Machine Learning",6,PhD
+257,Candidate_257,"Excel, HTML, C++, AWS, TensorFlow, Machine Learning",3,Bachelor
+258,Candidate_258,"PyTorch, JavaScript, Docker, Excel, Microservices, React",3,Bachelor
+259,Candidate_259,"Machine Learning, Java, Python, Docker, C++",5,Bachelor
+260,Candidate_260,"JavaScript, Kubernetes, HTML, Data Analysis",5,PhD
+261,Candidate_261,"DevOps, PowerBI, Data Analysis, Kubernetes, JavaScript, AWS",1,PhD
+262,Candidate_262,"TensorFlow, C++, DevOps, JavaScript",4,PhD
+263,Candidate_263,"CI/CD, Java, NLP, PyTorch",1,Master
+264,Candidate_264,"Kubernetes, DevOps, Java",12,PhD
+265,Candidate_265,"Java, JavaScript, SQL, Python, ETL",1,Master
+266,Candidate_266,"PyTorch, TensorFlow, NLP",7,Bachelor
+267,Candidate_267,"Excel, PowerBI, Java",11,PhD
+268,Candidate_268,"Machine Learning, C++, SQL, JavaScript, TensorFlow",1,PhD
+269,Candidate_269,"DevOps, PowerBI, Deep Learning, Docker",4,Bachelor
+270,Candidate_270,"Microservices, AWS, SQL",4,PhD
+271,Candidate_271,"Python, Excel, CSS, Machine Learning, Microservices, ETL",4,Bachelor
+272,Candidate_272,"JavaScript, Data Analysis, PowerBI, HTML, Machine Learning",1,PhD
+273,Candidate_273,"Excel, PyTorch, SQL",6,Bachelor
+274,Candidate_274,"Data Analysis, Excel, Deep Learning, Kubernetes, PyTorch, DevOps",6,Master
+275,Candidate_275,"SQL, C++, PowerBI, PyTorch, Deep Learning, NLP",12,PhD
+276,Candidate_276,"CI/CD, Machine Learning, PyTorch, C++",6,Master
+277,Candidate_277,"Excel, Python, CI/CD, C++",12,Master
+278,Candidate_278,"Python, PowerBI, ETL, Machine Learning, CSS, DevOps",1,Master
+279,Candidate_279,"ETL, AWS, Deep Learning, Python, C++",3,Bachelor
+280,Candidate_280,"DevOps, HTML, Docker",2,Bachelor
+281,Candidate_281,"DevOps, Deep Learning, ETL",5,Master
+282,Candidate_282,"JavaScript, Node.js, ETL, NLP, Docker, CI/CD",4,Bachelor
+283,Candidate_283,"SQL, CSS, DevOps, CI/CD, Spring Boot",10,PhD
+284,Candidate_284,"Data Analysis, TensorFlow, Kubernetes, AWS, Python",12,Bachelor
+285,Candidate_285,"Excel, DevOps, PowerBI, AWS, Docker, Python",6,Master
+286,Candidate_286,"Spring Boot, Java, React",2,PhD
+287,Candidate_287,"PyTorch, HTML, Node.js",1,PhD
+288,Candidate_288,"Excel, CSS, AWS, Machine Learning, Kubernetes",7,Bachelor
+289,Candidate_289,"SQL, PowerBI, DevOps",6,Bachelor
+290,Candidate_290,"PowerBI, Deep Learning, React, AWS, DevOps, Microservices",8,Master
+291,Candidate_291,"Excel, React, Python, AWS",4,PhD
+292,Candidate_292,"CSS, React, AWS, CI/CD, JavaScript, C++",9,PhD
+293,Candidate_293,"ETL, Docker, HTML, Data Analysis, Microservices, Deep Learning",9,Master
+294,Candidate_294,"AWS, DevOps, CSS, CI/CD",8,Bachelor
+295,Candidate_295,"Machine Learning, HTML, React",3,Bachelor
+296,Candidate_296,"DevOps, PyTorch, NLP, Machine Learning, ETL, Python",8,Bachelor
+297,Candidate_297,"C++, Python, Node.js, PowerBI",1,Master
+298,Candidate_298,"CI/CD, DevOps, Spring Boot, Node.js, Python, NLP",12,PhD
+299,Candidate_299,"Kubernetes, Deep Learning, PowerBI, JavaScript, Python",7,Master
+300,Candidate_300,"C++, PyTorch, JavaScript",4,PhD
+301,Candidate_301,"AWS, Microservices, CSS, Kubernetes",10,Master
+302,Candidate_302,"PyTorch, Data Analysis, SQL, Microservices, C++, Excel",7,PhD
+303,Candidate_303,"NLP, C++, CSS, Machine Learning, AWS, Excel",3,PhD
+304,Candidate_304,"ETL, NLP, Excel, JavaScript, CI/CD, CSS",7,PhD
+305,Candidate_305,"PyTorch, PowerBI, React",9,Bachelor
+306,Candidate_306,"Node.js, HTML, TensorFlow, PyTorch, NLP",8,Bachelor
+307,Candidate_307,"HTML, PyTorch, Deep Learning, DevOps, Python, NLP",1,PhD
+308,Candidate_308,"PowerBI, CSS, AWS, TensorFlow, NLP, Data Analysis",5,Master
+309,Candidate_309,"JavaScript, Spring Boot, Data Analysis",4,Bachelor
+310,Candidate_310,"JavaScript, Microservices, PowerBI, Python, Deep Learning, NLP",11,Master
+311,Candidate_311,"PyTorch, SQL, Machine Learning",9,Master
+312,Candidate_312,"React, Excel, Python, PowerBI, Microservices",2,PhD
+313,Candidate_313,"CSS, Excel, TensorFlow, Node.js",11,Master
+314,Candidate_314,"Node.js, Kubernetes, SQL, PowerBI, Deep Learning",3,Bachelor
+315,Candidate_315,"ETL, NLP, Microservices, Node.js, Docker, Machine Learning",6,Master
+316,Candidate_316,"Machine Learning, React, SQL",8,Master
+317,Candidate_317,"PowerBI, Excel, CSS, TensorFlow",4,PhD
+318,Candidate_318,"Excel, Data Analysis, C++, CSS, NLP, React",8,Bachelor
+319,Candidate_319,"Deep Learning, C++, CI/CD, Data Analysis, Docker",12,PhD
+320,Candidate_320,"Microservices, Kubernetes, DevOps, PowerBI, Deep Learning, JavaScript",6,PhD
+321,Candidate_321,"TensorFlow, DevOps, Java",5,Bachelor
+322,Candidate_322,"CSS, C++, JavaScript, PyTorch",6,Bachelor
+323,Candidate_323,"CSS, SQL, CI/CD, Python, PowerBI",10,Bachelor
+324,Candidate_324,"CI/CD, Machine Learning, Node.js",12,Master
+325,Candidate_325,"TensorFlow, Machine Learning, NLP, Spring Boot, Python, AWS",2,Master
+326,Candidate_326,"Python, Spring Boot, CSS",2,Master
+327,Candidate_327,"DevOps, Data Analysis, Node.js, AWS",12,PhD
+328,Candidate_328,"Machine Learning, Data Analysis, Kubernetes",7,Master
+329,Candidate_329,"ETL, DevOps, Docker",8,PhD
+330,Candidate_330,"Java, Docker, JavaScript, Node.js, C++",10,PhD
+331,Candidate_331,"Microservices, C++, ETL, Kubernetes",9,Bachelor
+332,Candidate_332,"CI/CD, C++, DevOps, PowerBI, Data Analysis",4,Bachelor
+333,Candidate_333,"HTML, CSS, AWS, NLP",5,Bachelor
+334,Candidate_334,"NLP, TensorFlow, Excel",9,PhD
+335,Candidate_335,"React, CSS, CI/CD",1,Bachelor
+336,Candidate_336,"Python, CSS, ETL",6,Master
+337,Candidate_337,"Spring Boot, AWS, Python, Data Analysis, TensorFlow, Java",8,Master
+338,Candidate_338,"NLP, ETL, PowerBI, C++",9,PhD
+339,Candidate_339,"Docker, JavaScript, NLP, CSS, Node.js, Python",3,Bachelor
+340,Candidate_340,"NLP, AWS, JavaScript, C++",5,Bachelor
+341,Candidate_341,"Node.js, ETL, DevOps, PyTorch, AWS, PowerBI",8,Master
+342,Candidate_342,"AWS, CI/CD, JavaScript, C++, Java, Machine Learning",11,PhD
+343,Candidate_343,"Machine Learning, SQL, NLP, CSS, JavaScript, Microservices",6,Bachelor
+344,Candidate_344,"PyTorch, Data Analysis, ETL, SQL, PowerBI, JavaScript",10,Master
+345,Candidate_345,"HTML, TensorFlow, Docker",7,Bachelor
+346,Candidate_346,"NLP, Java, Spring Boot, C++, Node.js, Microservices",11,Bachelor
+347,Candidate_347,"PowerBI, NLP, React, Node.js, Docker",5,PhD
+348,Candidate_348,"ETL, DevOps, SQL, Java",9,PhD
+349,Candidate_349,"CI/CD, HTML, Data Analysis, Kubernetes, React",9,Bachelor
+350,Candidate_350,"DevOps, Machine Learning, Kubernetes, Docker, TensorFlow",12,Bachelor
+351,Candidate_351,"Kubernetes, Data Analysis, JavaScript, PyTorch, SQL, Python",6,Master
+352,Candidate_352,"ETL, SQL, React, TensorFlow, DevOps, JavaScript",11,Master
+353,Candidate_353,"Node.js, DevOps, TensorFlow, Docker",1,Bachelor
+354,Candidate_354,"Excel, NLP, ETL, Node.js",7,Bachelor
+355,Candidate_355,"Kubernetes, TensorFlow, C++, Machine Learning, Spring Boot",7,Bachelor
+356,Candidate_356,"Docker, Spring Boot, Kubernetes, Java",1,Bachelor
+357,Candidate_357,"React, Spring Boot, Microservices, Excel, SQL",10,PhD
+358,Candidate_358,"CI/CD, Python, PowerBI, SQL, AWS",2,Bachelor
+359,Candidate_359,"C++, Docker, PyTorch, Microservices, Java",8,Master
+360,Candidate_360,"React, TensorFlow, Java, C++",5,PhD
+361,Candidate_361,"CSS, PyTorch, Java, AWS, Kubernetes, Docker",2,Master
+362,Candidate_362,"Excel, CI/CD, Spring Boot",4,Bachelor
+363,Candidate_363,"Deep Learning, Docker, Data Analysis, Microservices",10,PhD
+364,Candidate_364,"AWS, TensorFlow, ETL, Docker, NLP, Python",11,Bachelor
+365,Candidate_365,"HTML, React, Microservices, Spring Boot",12,PhD
+366,Candidate_366,"Spring Boot, C++, Kubernetes, Deep Learning, ETL, PowerBI",6,Bachelor
+367,Candidate_367,"HTML, C++, Microservices, Excel",12,Master
+368,Candidate_368,"NLP, JavaScript, DevOps, SQL, Spring Boot",5,Master
+369,Candidate_369,"Spring Boot, NLP, TensorFlow",5,Master
+370,Candidate_370,"C++, AWS, Data Analysis, TensorFlow",8,Bachelor
+371,Candidate_371,"CSS, Excel, JavaScript, HTML, Docker",5,Master
+372,Candidate_372,"Excel, CSS, Spring Boot, Java",8,Master
+373,Candidate_373,"JavaScript, Node.js, DevOps, PyTorch",2,Bachelor
+374,Candidate_374,"Kubernetes, Data Analysis, SQL, Deep Learning, React, DevOps",9,Master
+375,Candidate_375,"Node.js, Machine Learning, CSS, DevOps, PyTorch, TensorFlow",10,Master
+376,Candidate_376,"Excel, Python, Java, Machine Learning, Microservices",4,Bachelor
+377,Candidate_377,"Data Analysis, Java, Python",6,PhD
+378,Candidate_378,"HTML, PyTorch, TensorFlow, AWS",4,Bachelor
+379,Candidate_379,"Data Analysis, JavaScript, Kubernetes, Java, C++",10,PhD
+380,Candidate_380,"DevOps, PyTorch, AWS, PowerBI, React",6,Master
+381,Candidate_381,"HTML, Node.js, Data Analysis",12,PhD
+382,Candidate_382,"Node.js, Microservices, React, ETL, TensorFlow",2,PhD
+383,Candidate_383,"Java, Excel, Spring Boot, PowerBI, Node.js",2,PhD
+384,Candidate_384,"Java, Kubernetes, PyTorch, JavaScript, Microservices",4,PhD
+385,Candidate_385,"Kubernetes, ETL, C++, Spring Boot, JavaScript",7,Master
+386,Candidate_386,"C++, Deep Learning, JavaScript",9,PhD
+387,Candidate_387,"SQL, HTML, Spring Boot, PyTorch, Python",3,PhD
+388,Candidate_388,"CSS, PyTorch, Java, React, AWS",2,Master
+389,Candidate_389,"NLP, JavaScript, Microservices",8,Master
+390,Candidate_390,"Kubernetes, PyTorch, Docker, CI/CD",10,Master
+391,Candidate_391,"Java, Machine Learning, JavaScript, TensorFlow, React",12,Master
+392,Candidate_392,"Deep Learning, Kubernetes, CI/CD, TensorFlow",6,Master
+393,Candidate_393,"SQL, Python, PyTorch, Data Analysis",8,PhD
+394,Candidate_394,"Deep Learning, SQL, PyTorch, Java",8,Bachelor
+395,Candidate_395,"Kubernetes, JavaScript, Node.js, Docker",3,Bachelor
+396,Candidate_396,"DevOps, Data Analysis, Kubernetes, SQL, JavaScript, HTML",3,Bachelor
+397,Candidate_397,"Machine Learning, TensorFlow, PyTorch, HTML",3,PhD
+398,Candidate_398,"C++, AWS, TensorFlow, ETL, CSS, PyTorch",11,Master
+399,Candidate_399,"Excel, TensorFlow, React, Node.js",11,Bachelor
+400,Candidate_400,"JavaScript, Deep Learning, Kubernetes",8,PhD
+401,Candidate_401,"Python, CSS, TensorFlow",4,Bachelor
+402,Candidate_402,"Machine Learning, CI/CD, Microservices, React",11,Master
+403,Candidate_403,"Python, Microservices, Machine Learning, Deep Learning, Data Analysis, Spring Boot",12,PhD
+404,Candidate_404,"Kubernetes, HTML, Java, PyTorch",3,Bachelor
+405,Candidate_405,"JavaScript, Node.js, Data Analysis, Kubernetes, Spring Boot",4,Bachelor
+406,Candidate_406,"DevOps, HTML, React, JavaScript, Microservices, Deep Learning",6,Bachelor
+407,Candidate_407,"DevOps, HTML, Machine Learning, Excel, Spring Boot",6,Master
+408,Candidate_408,"Java, HTML, Python, Excel",11,PhD
+409,Candidate_409,"Kubernetes, NLP, SQL, AWS, Deep Learning",4,Master
+410,Candidate_410,"HTML, JavaScript, C++, Machine Learning, Java, Excel",12,Bachelor
+411,Candidate_411,"Kubernetes, NLP, DevOps, PyTorch",5,Bachelor
+412,Candidate_412,"C++, DevOps, Excel",6,PhD
+413,Candidate_413,"JavaScript, AWS, C++, CSS, Kubernetes, React",10,Bachelor
+414,Candidate_414,"C++, Java, Deep Learning",1,Bachelor
+415,Candidate_415,"JavaScript, Docker, PyTorch",11,Bachelor
+416,Candidate_416,"Python, Node.js, ETL, React, NLP, JavaScript",3,Master
+417,Candidate_417,"Spring Boot, PowerBI, DevOps",6,Bachelor
+418,Candidate_418,"C++, AWS, Kubernetes, Python, DevOps, JavaScript",1,Bachelor
+419,Candidate_419,"TensorFlow, Excel, JavaScript",5,Master
+420,Candidate_420,"PyTorch, AWS, ETL",10,PhD
+421,Candidate_421,"TensorFlow, CI/CD, HTML, ETL",6,Bachelor
+422,Candidate_422,"HTML, C++, NLP, TensorFlow, JavaScript, Java",1,PhD
+423,Candidate_423,"NLP, Excel, SQL",2,PhD
+424,Candidate_424,"CI/CD, PyTorch, React, JavaScript, PowerBI, HTML",7,PhD
+425,Candidate_425,"Deep Learning, TensorFlow, Spring Boot, React",11,PhD
+426,Candidate_426,"DevOps, SQL, AWS, Excel, PyTorch",11,Master
+427,Candidate_427,"Java, PowerBI, Machine Learning, PyTorch, DevOps",10,PhD
+428,Candidate_428,"SQL, AWS, Data Analysis, PyTorch, PowerBI",12,PhD
+429,Candidate_429,"HTML, TensorFlow, ETL, DevOps",10,Master
+430,Candidate_430,"React, DevOps, PowerBI, CSS, Docker, HTML",5,Bachelor
+431,Candidate_431,"HTML, Excel, Docker",1,Bachelor
+432,Candidate_432,"PyTorch, DevOps, Node.js",3,Master
+433,Candidate_433,"CI/CD, PowerBI, Node.js, TensorFlow, Deep Learning",5,PhD
+434,Candidate_434,"AWS, C++, Spring Boot, HTML, Machine Learning, SQL",5,Bachelor
+435,Candidate_435,"NLP, Docker, Excel, SQL",8,Bachelor
+436,Candidate_436,"Node.js, PowerBI, Microservices, Docker, JavaScript",10,PhD
+437,Candidate_437,"CI/CD, CSS, JavaScript, SQL, Excel, Spring Boot",4,Bachelor
+438,Candidate_438,"Docker, DevOps, Microservices, Data Analysis, Python, Java",12,Master
+439,Candidate_439,"Node.js, C++, CI/CD, HTML",6,Bachelor
+440,Candidate_440,"Deep Learning, JavaScript, Data Analysis, Excel",1,Master
+441,Candidate_441,"CI/CD, TensorFlow, Machine Learning, C++, Node.js, Java",5,Bachelor
+442,Candidate_442,"Data Analysis, TensorFlow, DevOps, Node.js",4,PhD
+443,Candidate_443,"React, ETL, Spring Boot, CI/CD",6,Bachelor
+444,Candidate_444,"Node.js, AWS, Java, Spring Boot",5,Master
+445,Candidate_445,"AWS, React, SQL, Java, Microservices",4,Bachelor
+446,Candidate_446,"Java, Data Analysis, SQL, CSS",1,Master
+447,Candidate_447,"Docker, C++, Data Analysis, CI/CD, Microservices",1,Bachelor
+448,Candidate_448,"Node.js, Docker, Java, CI/CD",4,Bachelor
+449,Candidate_449,"React, Java, CI/CD, AWS",2,Bachelor
+450,Candidate_450,"Node.js, Python, Spring Boot, SQL, PowerBI",8,Master
+451,Candidate_451,"CI/CD, TensorFlow, ETL, Kubernetes",10,PhD
+452,Candidate_452,"Java, Node.js, JavaScript",12,PhD
+453,Candidate_453,"ETL, Kubernetes, AWS, HTML, SQL",8,Bachelor
+454,Candidate_454,"Docker, Python, React, PyTorch, Machine Learning",7,PhD
+455,Candidate_455,"Excel, CI/CD, PowerBI, TensorFlow, ETL",9,Master
+456,Candidate_456,"TensorFlow, Deep Learning, Data Analysis, Machine Learning, CI/CD",9,Master
+457,Candidate_457,"AWS, CI/CD, Deep Learning",12,Master
+458,Candidate_458,"Node.js, CI/CD, Excel, HTML, Deep Learning",2,Bachelor
+459,Candidate_459,"JavaScript, Kubernetes, HTML, Docker, SQL",7,Bachelor
+460,Candidate_460,"Node.js, JavaScript, Machine Learning, Python",2,Bachelor
+461,Candidate_461,"Java, AWS, Docker",5,Master
+462,Candidate_462,"Java, C++, CSS, Python, SQL",4,PhD
+463,Candidate_463,"Kubernetes, SQL, Docker",1,Bachelor
+464,Candidate_464,"HTML, Java, Deep Learning, C++",8,Master
+465,Candidate_465,"React, HTML, Docker, ETL",6,Bachelor
+466,Candidate_466,"Python, Kubernetes, DevOps, CSS",11,PhD
+467,Candidate_467,"ETL, Java, SQL",6,Master
+468,Candidate_468,"Docker, Kubernetes, Data Analysis, Python, CSS",11,Master
+469,Candidate_469,"AWS, Python, Deep Learning, Excel",2,PhD
+470,Candidate_470,"Kubernetes, React, CSS, AWS, Spring Boot, PyTorch",8,Master
+471,Candidate_471,"Excel, PowerBI, HTML, ETL, AWS, Docker",8,Master
+472,Candidate_472,"AWS, HTML, Spring Boot",6,Master
+473,Candidate_473,"CSS, Python, Data Analysis, CI/CD, SQL, Deep Learning",4,Master
+474,Candidate_474,"PyTorch, React, Microservices, Node.js, Docker",7,Master
+475,Candidate_475,"DevOps, Excel, React",4,Master
+476,Candidate_476,"Deep Learning, SQL, Machine Learning, Excel, Data Analysis",10,PhD
+477,Candidate_477,"PyTorch, Python, Docker, React, AWS",5,Bachelor
+478,Candidate_478,"TensorFlow, Python, SQL, React",8,Master
+479,Candidate_479,"React, Excel, Docker",12,Bachelor
+480,Candidate_480,"JavaScript, Node.js, Microservices, AWS",9,Bachelor
+481,Candidate_481,"Python, JavaScript, Node.js, Microservices, Machine Learning, Data Analysis",2,Master
+482,Candidate_482,"CI/CD, Docker, DevOps, AWS, PowerBI, Excel",4,Bachelor
+483,Candidate_483,"ETL, HTML, PyTorch, CSS, Node.js, JavaScript",4,PhD
+484,Candidate_484,"React, JavaScript, PowerBI",10,PhD
+485,Candidate_485,"Data Analysis, C++, Python, React, Excel, PowerBI",2,Bachelor
+486,Candidate_486,"JavaScript, HTML, Spring Boot",10,Bachelor
+487,Candidate_487,"React, Python, AWS, ETL, DevOps, PyTorch",7,Bachelor
+488,Candidate_488,"CSS, Microservices, Node.js",10,Bachelor
+489,Candidate_489,"PyTorch, Python, DevOps, PowerBI",6,Bachelor
+490,Candidate_490,"React, Node.js, CSS",7,PhD
+491,Candidate_491,"Data Analysis, TensorFlow, React, JavaScript",5,Master
+492,Candidate_492,"Machine Learning, C++, ETL",4,Master
+493,Candidate_493,"AWS, HTML, Kubernetes, Spring Boot, CSS",9,Bachelor
+494,Candidate_494,"React, Node.js, Data Analysis",10,Bachelor
+495,Candidate_495,"DevOps, SQL, Deep Learning, C++",7,Master
+496,Candidate_496,"NLP, DevOps, Deep Learning, Docker, Excel, AWS",1,PhD
+497,Candidate_497,"AWS, JavaScript, PowerBI",4,PhD
+498,Candidate_498,"JavaScript, DevOps, Java",11,Bachelor
+499,Candidate_499,"C++, CSS, Python, HTML, Data Analysis, AWS",3,Master
+500,Candidate_500,"NLP, Node.js, AWS, PowerBI",6,PhD
+501,Candidate_501,"AWS, PyTorch, Spring Boot, PowerBI, ETL, Excel",2,PhD
+502,Candidate_502,"HTML, PyTorch, Kubernetes, React, Java",5,Master
+503,Candidate_503,"PyTorch, PowerBI, CI/CD",10,Master
+504,Candidate_504,"PowerBI, AWS, Machine Learning, Docker, Node.js",8,Master
+505,Candidate_505,"Kubernetes, Docker, Spring Boot, JavaScript, React, Java",11,Master
+506,Candidate_506,"C++, React, Spring Boot, CI/CD, PowerBI",9,Master
+507,Candidate_507,"Machine Learning, Java, Docker, AWS, NLP",7,Master
+508,Candidate_508,"Node.js, Excel, SQL, Java",11,Master
+509,Candidate_509,"Data Analysis, Node.js, Machine Learning, TensorFlow, Docker",1,Bachelor
+510,Candidate_510,"TensorFlow, Python, CSS, HTML, AWS",2,Master
+511,Candidate_511,"React, HTML, CI/CD, Python",12,PhD
+512,Candidate_512,"C++, CSS, SQL, AWS, JavaScript",12,Master
+513,Candidate_513,"Node.js, C++, JavaScript, PyTorch, PowerBI",1,PhD
+514,Candidate_514,"Excel, PyTorch, NLP, Microservices, JavaScript",12,Bachelor
+515,Candidate_515,"PyTorch, HTML, C++, React, CI/CD",11,Master
+516,Candidate_516,"Microservices, Python, PyTorch, Excel, CSS",10,PhD
+517,Candidate_517,"AWS, Node.js, NLP, SQL, Deep Learning, DevOps",11,Bachelor
+518,Candidate_518,"AWS, React, SQL, C++, Python, HTML",12,PhD
+519,Candidate_519,"Docker, Node.js, Excel, PowerBI, C++",4,Bachelor
+520,Candidate_520,"React, Excel, CI/CD, Data Analysis, AWS, Deep Learning",9,Bachelor
+521,Candidate_521,"Node.js, Java, React, Microservices, JavaScript, Deep Learning",4,Bachelor
+522,Candidate_522,"ETL, PowerBI, Kubernetes, Microservices, CSS, TensorFlow",1,Master
+523,Candidate_523,"NLP, Docker, CI/CD, Machine Learning",6,Bachelor
+524,Candidate_524,"Kubernetes, Data Analysis, Python, TensorFlow, Microservices",10,Master
+525,Candidate_525,"Machine Learning, AWS, Deep Learning, Data Analysis, CI/CD, Excel",1,PhD
+526,Candidate_526,"C++, JavaScript, NLP",1,PhD
+527,Candidate_527,"React, Machine Learning, DevOps, CI/CD, PowerBI, Data Analysis",4,Bachelor
+528,Candidate_528,"Node.js, Excel, Data Analysis, Spring Boot, AWS",2,PhD
+529,Candidate_529,"ETL, Deep Learning, Node.js, JavaScript",9,PhD
+530,Candidate_530,"Microservices, PyTorch, Docker, Kubernetes",9,PhD
+531,Candidate_531,"CI/CD, Data Analysis, Deep Learning",7,Bachelor
+532,Candidate_532,"HTML, Kubernetes, Machine Learning",5,Bachelor
+533,Candidate_533,"JavaScript, Machine Learning, Data Analysis, Deep Learning",6,Master
+534,Candidate_534,"Data Analysis, ETL, Docker, React",8,PhD
+535,Candidate_535,"Python, DevOps, Deep Learning, NLP, Spring Boot, Excel",7,Master
+536,Candidate_536,"Microservices, C++, CI/CD, Deep Learning, Java, AWS",7,Master
+537,Candidate_537,"SQL, Deep Learning, Spring Boot",2,PhD
+538,Candidate_538,"AWS, Deep Learning, Microservices, DevOps, Spring Boot",9,Bachelor
+539,Candidate_539,"Kubernetes, Docker, Data Analysis, Microservices",5,Master
+540,Candidate_540,"DevOps, NLP, Data Analysis, Excel, PowerBI",3,Bachelor
+541,Candidate_541,"Microservices, PyTorch, JavaScript, Excel, PowerBI",6,PhD
+542,Candidate_542,"PowerBI, AWS, ETL, Java, Microservices",3,Master
+543,Candidate_543,"React, PowerBI, Excel, HTML, Deep Learning, Kubernetes",3,PhD
+544,Candidate_544,"CI/CD, Machine Learning, Python, Docker, HTML, TensorFlow",10,Master
+545,Candidate_545,"HTML, Deep Learning, Data Analysis, React, DevOps, Python",10,Bachelor
+546,Candidate_546,"Java, Excel, CSS, Microservices, Data Analysis, HTML",3,PhD
+547,Candidate_547,"AWS, Data Analysis, Java, HTML, TensorFlow",2,Master
+548,Candidate_548,"Excel, Machine Learning, PowerBI, Node.js, DevOps",3,PhD
+549,Candidate_549,"Excel, NLP, Node.js",2,PhD
+550,Candidate_550,"NLP, Node.js, ETL",5,Master
+551,Candidate_551,"CSS, Java, Data Analysis, SQL",3,PhD
+552,Candidate_552,"PowerBI, Java, Data Analysis",3,Bachelor
+553,Candidate_553,"Deep Learning, Data Analysis, SQL, React, DevOps",4,Master
+554,Candidate_554,"NLP, AWS, CSS, JavaScript, React",6,PhD
+555,Candidate_555,"Machine Learning, HTML, Python, PyTorch, Excel",2,Master
+556,Candidate_556,"AWS, Excel, Kubernetes",4,Master
+557,Candidate_557,"PowerBI, TensorFlow, NLP, SQL, Machine Learning",10,PhD
+558,Candidate_558,"Excel, Python, Deep Learning, JavaScript, Java",11,Bachelor
+559,Candidate_559,"Data Analysis, CSS, AWS, Node.js, Spring Boot, PyTorch",1,PhD
+560,Candidate_560,"Data Analysis, Docker, React, SQL, Machine Learning",5,Master
+561,Candidate_561,"ETL, Python, C++, CI/CD, Deep Learning, HTML",5,Master
+562,Candidate_562,"Docker, React, SQL, Deep Learning, DevOps, NLP",3,Bachelor
+563,Candidate_563,"JavaScript, NLP, Spring Boot, Excel, PyTorch",1,Master
+564,Candidate_564,"Java, ETL, DevOps",10,Master
+565,Candidate_565,"Excel, Spring Boot, NLP, Docker, Kubernetes, Data Analysis",9,PhD
+566,Candidate_566,"CI/CD, Machine Learning, Excel",2,Master
+567,Candidate_567,"C++, CI/CD, CSS",2,Bachelor
+568,Candidate_568,"Data Analysis, HTML, Java, Node.js, TensorFlow",7,Master
+569,Candidate_569,"CSS, Java, NLP, AWS",7,Master
+570,Candidate_570,"JavaScript, Docker, React, DevOps, Python, C++",1,Bachelor
+571,Candidate_571,"ETL, Node.js, Excel, AWS, C++",2,Bachelor
+572,Candidate_572,"Spring Boot, CI/CD, Java, Excel, JavaScript",10,Master
+573,Candidate_573,"Data Analysis, Deep Learning, PowerBI, HTML",8,Master
+574,Candidate_574,"ETL, Python, Excel, Machine Learning",4,Bachelor
+575,Candidate_575,"DevOps, PowerBI, Data Analysis",6,Bachelor
+576,Candidate_576,"C++, Node.js, Excel, CI/CD",8,Bachelor
+577,Candidate_577,"PyTorch, CI/CD, HTML",10,PhD
+578,Candidate_578,"SQL, Excel, Kubernetes, Node.js, NLP, Java",8,Bachelor
+579,Candidate_579,"DevOps, NLP, SQL, CSS, Java",12,Master
+580,Candidate_580,"Kubernetes, NLP, React, Docker, C++",4,Bachelor
+581,Candidate_581,"CSS, Java, C++",4,PhD
+582,Candidate_582,"PyTorch, DevOps, Deep Learning, React",12,Bachelor
+583,Candidate_583,"Data Analysis, Machine Learning, TensorFlow, HTML, C++, Deep Learning",3,Bachelor
+584,Candidate_584,"SQL, Java, Data Analysis, Machine Learning",2,PhD
+585,Candidate_585,"C++, PyTorch, HTML, AWS, Docker",6,Bachelor
+586,Candidate_586,"Python, Excel, ETL",6,Master
+587,Candidate_587,"Deep Learning, Data Analysis, ETL, Microservices, React",9,Master
+588,Candidate_588,"DevOps, Data Analysis, Excel, Java",9,PhD
+589,Candidate_589,"HTML, DevOps, Java, AWS",9,PhD
+590,Candidate_590,"React, C++, Data Analysis, PowerBI",9,Master
+591,Candidate_591,"AWS, DevOps, SQL",12,Bachelor
+592,Candidate_592,"SQL, Excel, Microservices",12,Bachelor
+593,Candidate_593,"Data Analysis, NLP, Microservices",8,Bachelor
+594,Candidate_594,"ETL, Node.js, DevOps",10,Master
+595,Candidate_595,"Java, ETL, HTML",2,Master
+596,Candidate_596,"CI/CD, CSS, AWS, DevOps, TensorFlow, Python",2,PhD
+597,Candidate_597,"C++, Kubernetes, AWS, Machine Learning, HTML, Python",2,Master
+598,Candidate_598,"Microservices, CI/CD, AWS, CSS",8,PhD
+599,Candidate_599,"Spring Boot, Python, CI/CD",1,Master
+600,Candidate_600,"NLP, Docker, AWS, PowerBI, JavaScript",9,PhD
+601,Candidate_601,"PowerBI, JavaScript, ETL, PyTorch, DevOps, C++",6,Bachelor
+602,Candidate_602,"Python, Docker, JavaScript, Kubernetes",7,PhD
+603,Candidate_603,"TensorFlow, Python, AWS",3,Bachelor
+604,Candidate_604,"Excel, HTML, Deep Learning, C++",8,Master
+605,Candidate_605,"Java, Docker, CSS, Kubernetes, Python, Spring Boot",4,PhD
+606,Candidate_606,"Excel, ETL, Python",11,PhD
+607,Candidate_607,"Java, ETL, Kubernetes, CSS, Excel, Deep Learning",5,Bachelor
+608,Candidate_608,"PyTorch, HTML, Excel, NLP, React, Machine Learning",6,Master
+609,Candidate_609,"Node.js, Kubernetes, DevOps, React, Docker, CI/CD",9,PhD
+610,Candidate_610,"ETL, Data Analysis, PyTorch, DevOps, CI/CD",11,Master
+611,Candidate_611,"PyTorch, Node.js, Java",11,PhD
+612,Candidate_612,"PowerBI, Node.js, ETL, Excel",6,PhD
+613,Candidate_613,"CI/CD, AWS, Python",12,Bachelor
+614,Candidate_614,"HTML, CI/CD, PyTorch",11,Master
+615,Candidate_615,"JavaScript, PowerBI, Kubernetes, CSS, Docker, Machine Learning",11,Bachelor
+616,Candidate_616,"Node.js, ETL, Docker",11,PhD
+617,Candidate_617,"PowerBI, Docker, CSS, Deep Learning, PyTorch",11,Bachelor
+618,Candidate_618,"Excel, Node.js, DevOps",11,Master
+619,Candidate_619,"Java, DevOps, TensorFlow",3,Master
+620,Candidate_620,"Kubernetes, Excel, NLP, PowerBI, Java",12,PhD
+621,Candidate_621,"PowerBI, C++, CSS",3,Bachelor
+622,Candidate_622,"PowerBI, Python, CSS, C++, JavaScript",7,Bachelor
+623,Candidate_623,"Deep Learning, Data Analysis, CI/CD, TensorFlow",6,Master
+624,Candidate_624,"ETL, Kubernetes, HTML, Excel, Spring Boot",10,Bachelor
+625,Candidate_625,"Docker, JavaScript, Python, ETL, Java",12,Bachelor
+626,Candidate_626,"AWS, Machine Learning, Python, Excel",6,PhD
+627,Candidate_627,"Python, AWS, Kubernetes, C++",10,PhD
+628,Candidate_628,"CSS, Kubernetes, React, Java",6,PhD
+629,Candidate_629,"AWS, PyTorch, DevOps, Spring Boot, Node.js, Machine Learning",2,Master
+630,Candidate_630,"TensorFlow, Python, React, JavaScript, Deep Learning",3,Master
+631,Candidate_631,"Java, React, Excel, C++",1,Master
+632,Candidate_632,"PyTorch, CSS, PowerBI, JavaScript, Deep Learning, Data Analysis",3,Master
+633,Candidate_633,"Machine Learning, PowerBI, Microservices, PyTorch, Docker",9,Master
+634,Candidate_634,"CSS, Node.js, PyTorch, TensorFlow",5,PhD
+635,Candidate_635,"HTML, Kubernetes, JavaScript, React, SQL",7,Master
+636,Candidate_636,"SQL, Java, Node.js, TensorFlow",11,Master
+637,Candidate_637,"C++, Spring Boot, Machine Learning, Node.js",7,Master
+638,Candidate_638,"Python, NLP, DevOps, ETL",9,PhD
+639,Candidate_639,"Microservices, PyTorch, CSS, Data Analysis, Java, C++",4,Bachelor
+640,Candidate_640,"TensorFlow, HTML, AWS",10,Master
+641,Candidate_641,"Machine Learning, HTML, Spring Boot, CI/CD, React, Java",5,Master
+642,Candidate_642,"ETL, Machine Learning, SQL, Data Analysis",10,Master
+643,Candidate_643,"Excel, Node.js, CI/CD",9,PhD
+644,Candidate_644,"DevOps, Excel, JavaScript, Java, CSS",8,PhD
+645,Candidate_645,"JavaScript, PyTorch, React",2,Master
+646,Candidate_646,"PyTorch, Machine Learning, Python, Data Analysis",6,Master
+647,Candidate_647,"CSS, Deep Learning, Kubernetes, Spring Boot, Java, Excel",4,PhD
+648,Candidate_648,"Kubernetes, Spring Boot, C++, Python, CI/CD",6,Bachelor
+649,Candidate_649,"CI/CD, PowerBI, Microservices, Deep Learning",7,Master
+650,Candidate_650,"DevOps, JavaScript, Excel, Machine Learning, Data Analysis, CSS",6,PhD
+651,Candidate_651,"CI/CD, Docker, JavaScript",11,Bachelor
+652,Candidate_652,"Spring Boot, Docker, Java, Machine Learning, TensorFlow, AWS",9,Master
+653,Candidate_653,"Python, CI/CD, Spring Boot, JavaScript, DevOps",5,Bachelor
+654,Candidate_654,"CSS, CI/CD, Machine Learning",1,Master
+655,Candidate_655,"PowerBI, SQL, C++, TensorFlow, Excel, DevOps",1,Master
+656,Candidate_656,"Deep Learning, Python, HTML, Excel",8,PhD
+657,Candidate_657,"AWS, Microservices, NLP, SQL, TensorFlow, C++",7,Master
+658,Candidate_658,"Docker, Data Analysis, HTML, NLP, Machine Learning, C++",7,PhD
+659,Candidate_659,"CI/CD, Kubernetes, Deep Learning, Microservices",4,Bachelor
+660,Candidate_660,"ETL, Docker, AWS",9,Bachelor
+661,Candidate_661,"CSS, ETL, C++, Excel, React, Docker",9,Master
+662,Candidate_662,"AWS, Node.js, Docker, Microservices, DevOps",7,Bachelor
+663,Candidate_663,"PyTorch, NLP, CSS, Docker, Python",3,Bachelor
+664,Candidate_664,"Node.js, HTML, Deep Learning",11,PhD
+665,Candidate_665,"ETL, Microservices, NLP, Docker",9,Bachelor
+666,Candidate_666,"Excel, C++, SQL",2,Bachelor
+667,Candidate_667,"CI/CD, CSS, Spring Boot, DevOps, Docker",4,PhD
+668,Candidate_668,"PyTorch, PowerBI, Python, Docker",2,Bachelor
+669,Candidate_669,"JavaScript, DevOps, Excel, Node.js, Docker, Microservices",6,Master
+670,Candidate_670,"SQL, Data Analysis, ETL, C++, JavaScript",7,Master
+671,Candidate_671,"ETL, SQL, Spring Boot, C++",2,PhD
+672,Candidate_672,"JavaScript, CI/CD, SQL, C++, Spring Boot",6,Bachelor
+673,Candidate_673,"Excel, React, Kubernetes, Docker, C++",4,Bachelor
+674,Candidate_674,"ETL, React, Docker, Kubernetes",6,Bachelor
+675,Candidate_675,"TensorFlow, Excel, Spring Boot",11,Bachelor
+676,Candidate_676,"ETL, AWS, Data Analysis, Kubernetes",11,Bachelor
+677,Candidate_677,"Deep Learning, HTML, TensorFlow, React",2,Master
+678,Candidate_678,"Docker, TensorFlow, Java",4,Bachelor
+679,Candidate_679,"Python, Machine Learning, PowerBI, Excel, Docker, Spring Boot",3,Master
+680,Candidate_680,"Node.js, PowerBI, C++",9,Master
+681,Candidate_681,"PyTorch, Python, JavaScript, ETL, Docker",8,Bachelor
+682,Candidate_682,"Python, Node.js, Data Analysis, CSS",4,Bachelor
+683,Candidate_683,"Java, JavaScript, PyTorch, Spring Boot",11,Master
+684,Candidate_684,"DevOps, PyTorch, SQL, HTML",9,Master
+685,Candidate_685,"ETL, Node.js, CSS, Excel, Java",12,Bachelor
+686,Candidate_686,"Machine Learning, Data Analysis, Deep Learning",9,Master
+687,Candidate_687,"Microservices, CI/CD, Node.js, PowerBI, ETL",2,PhD
+688,Candidate_688,"Excel, NLP, Spring Boot, AWS, Docker",12,Bachelor
+689,Candidate_689,"Python, Deep Learning, NLP, SQL",11,Master
+690,Candidate_690,"C++, Java, Excel, PowerBI",1,Bachelor
+691,Candidate_691,"HTML, Microservices, Java, TensorFlow, Data Analysis, CI/CD",10,PhD
+692,Candidate_692,"TensorFlow, CSS, DevOps, C++, Python, Data Analysis",8,Bachelor
+693,Candidate_693,"Machine Learning, PyTorch, SQL, Deep Learning, Python",9,Bachelor
+694,Candidate_694,"CSS, Node.js, JavaScript",2,PhD
+695,Candidate_695,"React, CI/CD, PyTorch, DevOps, Spring Boot",10,Master
+696,Candidate_696,"PyTorch, Deep Learning, SQL, Data Analysis, C++, DevOps",7,Master
+697,Candidate_697,"ETL, Node.js, Machine Learning, HTML",7,Bachelor
+698,Candidate_698,"React, Kubernetes, Data Analysis, DevOps, Machine Learning",6,Master
+699,Candidate_699,"Node.js, Microservices, CI/CD",8,Bachelor
+700,Candidate_700,"Data Analysis, SQL, Machine Learning",8,Master
+701,Candidate_701,"C++, JavaScript, Deep Learning, Microservices, HTML",1,Bachelor
+702,Candidate_702,"Data Analysis, DevOps, PowerBI, Docker, Excel, TensorFlow",2,Master
+703,Candidate_703,"Excel, DevOps, Node.js, Microservices, ETL, Kubernetes",7,PhD
+704,Candidate_704,"SQL, Microservices, TensorFlow, ETL, JavaScript",12,PhD
+705,Candidate_705,"ETL, Node.js, Excel, HTML, Python, Data Analysis",9,Master
+706,Candidate_706,"Node.js, CI/CD, ETL, Python, Excel, JavaScript",12,Master
+707,Candidate_707,"AWS, PowerBI, Excel",4,Master
+708,Candidate_708,"Deep Learning, PowerBI, Kubernetes, SQL, Java",9,Bachelor
+709,Candidate_709,"NLP, Docker, Node.js, Java",11,Master
+710,Candidate_710,"HTML, Java, AWS, TensorFlow, Spring Boot, DevOps",2,Master
+711,Candidate_711,"PowerBI, Docker, CI/CD, Deep Learning",7,Bachelor
+712,Candidate_712,"CI/CD, Excel, Docker, DevOps, C++, Machine Learning",7,Bachelor
+713,Candidate_713,"Excel, TensorFlow, PowerBI, SQL, Data Analysis, Python",10,Master
+714,Candidate_714,"C++, Microservices, Deep Learning, Java",8,Master
+715,Candidate_715,"C++, Spring Boot, AWS, SQL, NLP, PyTorch",10,PhD
+716,Candidate_716,"Machine Learning, CI/CD, Excel, SQL, PowerBI",4,Bachelor
+717,Candidate_717,"Deep Learning, JavaScript, SQL, TensorFlow, Python",12,PhD
+718,Candidate_718,"HTML, Node.js, Spring Boot, PowerBI, CI/CD",6,PhD
+719,Candidate_719,"DevOps, TensorFlow, SQL, CSS, Deep Learning",5,Master
+720,Candidate_720,"ETL, SQL, JavaScript, Python, Docker, AWS",10,Bachelor
+721,Candidate_721,"DevOps, Data Analysis, AWS, Java, React, TensorFlow",10,Master
+722,Candidate_722,"Kubernetes, Spring Boot, ETL, CSS, Docker, PowerBI",7,Bachelor
+723,Candidate_723,"Spring Boot, Microservices, Docker, Data Analysis, TensorFlow, HTML",2,Bachelor
+724,Candidate_724,"PowerBI, CSS, PyTorch, SQL",7,PhD
+725,Candidate_725,"Java, Deep Learning, Kubernetes, Microservices, Spring Boot, AWS",4,PhD
+726,Candidate_726,"Kubernetes, PowerBI, C++, AWS",2,Bachelor
+727,Candidate_727,"TensorFlow, DevOps, CI/CD, C++, Data Analysis, Spring Boot",3,PhD
+728,Candidate_728,"C++, SQL, Data Analysis, ETL",4,PhD
+729,Candidate_729,"Java, Python, Data Analysis",5,PhD
+730,Candidate_730,"React, ETL, NLP, AWS, DevOps",3,PhD
+731,Candidate_731,"React, C++, JavaScript, Excel, PowerBI",10,Master
+732,Candidate_732,"Spring Boot, CSS, TensorFlow, Python, ETL, Deep Learning",12,PhD
+733,Candidate_733,"NLP, HTML, Machine Learning, CI/CD, Java",12,Master
+734,Candidate_734,"Deep Learning, DevOps, Python",5,PhD
+735,Candidate_735,"ETL, SQL, TensorFlow, Excel, Data Analysis",9,Bachelor
+736,Candidate_736,"AWS, C++, Deep Learning, Microservices, Machine Learning, Spring Boot",7,PhD
+737,Candidate_737,"Data Analysis, Python, SQL",10,Bachelor
+738,Candidate_738,"React, Spring Boot, NLP, C++, Docker",3,Master
+739,Candidate_739,"CSS, React, Node.js, Deep Learning, PyTorch",7,Master
+740,Candidate_740,"React, Excel, CSS",7,PhD
+741,Candidate_741,"JavaScript, NLP, Excel",3,Master
+742,Candidate_742,"NLP, Machine Learning, PowerBI",5,PhD
+743,Candidate_743,"HTML, PowerBI, Machine Learning, JavaScript, C++, CSS",2,Master
+744,Candidate_744,"Excel, C++, ETL",4,Master
+745,Candidate_745,"Deep Learning, PyTorch, Excel, React",1,Bachelor
+746,Candidate_746,"CSS, Excel, CI/CD, Data Analysis, Java",6,Bachelor
+747,Candidate_747,"Deep Learning, Excel, CSS, Data Analysis",11,Bachelor
+748,Candidate_748,"Node.js, SQL, TensorFlow",9,PhD
+749,Candidate_749,"JavaScript, C++, PowerBI, Excel, Java",3,Master
+750,Candidate_750,"HTML, NLP, Data Analysis, TensorFlow",2,Bachelor
+751,Candidate_751,"PowerBI, PyTorch, Machine Learning",1,Bachelor
+752,Candidate_752,"DevOps, HTML, Spring Boot, Machine Learning",3,Master
+753,Candidate_753,"Kubernetes, NLP, Excel, Deep Learning, C++, Java",4,PhD
+754,Candidate_754,"Java, CSS, Kubernetes, ETL, SQL",3,PhD
+755,Candidate_755,"C++, ETL, AWS, Machine Learning, Deep Learning",11,PhD
+756,Candidate_756,"Docker, Deep Learning, Node.js",6,Bachelor
+757,Candidate_757,"CSS, Python, Machine Learning",9,PhD
+758,Candidate_758,"AWS, Python, Machine Learning, Docker, JavaScript, Spring Boot",8,PhD
+759,Candidate_759,"NLP, CI/CD, PowerBI, Microservices, Deep Learning",10,PhD
+760,Candidate_760,"CSS, Java, Spring Boot, Deep Learning",5,Master
+761,Candidate_761,"JavaScript, Kubernetes, React, NLP, Spring Boot, SQL",7,Master
+762,Candidate_762,"Docker, AWS, Excel, Node.js, Deep Learning, TensorFlow",10,Bachelor
+763,Candidate_763,"Microservices, Data Analysis, Python, JavaScript, PowerBI",12,Master
+764,Candidate_764,"Java, Kubernetes, Data Analysis, PyTorch, HTML, NLP",11,PhD
+765,Candidate_765,"Deep Learning, Python, CI/CD, HTML",3,PhD
+766,Candidate_766,"JavaScript, Microservices, Kubernetes, Deep Learning, SQL, Node.js",12,Bachelor
+767,Candidate_767,"HTML, PyTorch, CI/CD, Microservices",6,PhD
+768,Candidate_768,"Spring Boot, NLP, AWS, DevOps, Deep Learning",2,PhD
+769,Candidate_769,"HTML, ETL, SQL",6,Bachelor
+770,Candidate_770,"SQL, JavaScript, Java, HTML",3,Master
+771,Candidate_771,"React, C++, Excel, ETL, CI/CD",5,Master
+772,Candidate_772,"PowerBI, Java, PyTorch, Machine Learning, SQL",6,PhD
+773,Candidate_773,"Excel, DevOps, NLP, AWS, Microservices",10,PhD
+774,Candidate_774,"CSS, Data Analysis, C++, Node.js",1,PhD
+775,Candidate_775,"Spring Boot, DevOps, Excel, Node.js, PyTorch",5,Master
+776,Candidate_776,"React, SQL, Data Analysis, AWS, HTML, ETL",3,Bachelor
+777,Candidate_777,"Docker, CSS, ETL, Python",8,Bachelor
+778,Candidate_778,"C++, PyTorch, SQL, Data Analysis",11,Bachelor
+779,Candidate_779,"DevOps, PyTorch, Machine Learning",8,Master
+780,Candidate_780,"CI/CD, Machine Learning, ETL",9,PhD
+781,Candidate_781,"PyTorch, Deep Learning, HTML",11,Master
+782,Candidate_782,"Python, Deep Learning, Data Analysis",3,Bachelor
+783,Candidate_783,"JavaScript, NLP, C++, SQL, ETL",4,Master
+784,Candidate_784,"PyTorch, JavaScript, CI/CD, Microservices",5,PhD
+785,Candidate_785,"Excel, Deep Learning, JavaScript, PyTorch, Spring Boot, HTML",8,Master
+786,Candidate_786,"HTML, PowerBI, CI/CD, NLP, Machine Learning",9,PhD
+787,Candidate_787,"Deep Learning, C++, Microservices, Machine Learning, SQL, CI/CD",4,Master
+788,Candidate_788,"TensorFlow, Kubernetes, Spring Boot, CSS, Python",10,Bachelor
+789,Candidate_789,"ETL, CSS, Kubernetes",1,Bachelor
+790,Candidate_790,"Microservices, Java, Node.js, Docker, PyTorch",12,PhD
+791,Candidate_791,"Python, AWS, ETL, Microservices, Java, PowerBI",11,Bachelor
+792,Candidate_792,"Machine Learning, AWS, Excel",7,PhD
+793,Candidate_793,"HTML, Spring Boot, SQL",6,Master
+794,Candidate_794,"CSS, TensorFlow, AWS, Microservices, Excel",6,Bachelor
+795,Candidate_795,"Microservices, CI/CD, Java, Machine Learning, Deep Learning, AWS",11,Bachelor
+796,Candidate_796,"Microservices, Java, Docker",9,PhD
+797,Candidate_797,"ETL, CSS, AWS, Java, Data Analysis, Deep Learning",8,Bachelor
+798,Candidate_798,"ETL, SQL, AWS",2,Bachelor
+799,Candidate_799,"HTML, TensorFlow, AWS",4,Bachelor
+800,Candidate_800,"CSS, Deep Learning, ETL, Data Analysis",6,PhD
+801,Candidate_801,"TensorFlow, Excel, Java, Docker",8,PhD
+802,Candidate_802,"CSS, React, Python, CI/CD",5,Master
+803,Candidate_803,"NLP, JavaScript, Spring Boot, CSS, Docker",12,Bachelor
+804,Candidate_804,"CSS, Data Analysis, Microservices, NLP, Spring Boot, Docker",2,Bachelor
+805,Candidate_805,"CSS, Node.js, Deep Learning, AWS",7,Bachelor
+806,Candidate_806,"DevOps, PowerBI, Spring Boot, Deep Learning, HTML, Excel",12,PhD
+807,Candidate_807,"Machine Learning, C++, HTML",10,Master
+808,Candidate_808,"DevOps, TensorFlow, C++, Python, Excel, Java",10,Bachelor
+809,Candidate_809,"PowerBI, HTML, ETL, Docker, PyTorch, Spring Boot",8,Master
+810,Candidate_810,"Deep Learning, React, NLP",4,PhD
+811,Candidate_811,"DevOps, SQL, Excel, CSS, Microservices, React",8,PhD
+812,Candidate_812,"Deep Learning, Node.js, Excel, Docker, React",2,Master
+813,Candidate_813,"Python, PowerBI, ETL, NLP",8,PhD
+814,Candidate_814,"Spring Boot, Machine Learning, PyTorch, Node.js, Data Analysis, Excel",6,Bachelor
+815,Candidate_815,"PyTorch, Excel, Java, HTML, Data Analysis, AWS",4,PhD
+816,Candidate_816,"ETL, PyTorch, Kubernetes, PowerBI, CI/CD",8,Bachelor
+817,Candidate_817,"PowerBI, Data Analysis, TensorFlow, CSS, Spring Boot, CI/CD",11,Bachelor
+818,Candidate_818,"Spring Boot, SQL, Python, CSS",6,Bachelor
+819,Candidate_819,"DevOps, PowerBI, C++",1,Bachelor
+820,Candidate_820,"TensorFlow, HTML, Java, PowerBI",6,Bachelor
+821,Candidate_821,"Docker, HTML, DevOps, Machine Learning",4,Bachelor
+822,Candidate_822,"PowerBI, Java, Machine Learning, React, PyTorch",12,Bachelor
+823,Candidate_823,"React, PowerBI, HTML, C++, NLP, JavaScript",9,Bachelor
+824,Candidate_824,"CI/CD, DevOps, TensorFlow, Deep Learning, PyTorch",6,Bachelor
+825,Candidate_825,"AWS, CSS, ETL, React, Java",1,Bachelor
+826,Candidate_826,"Spring Boot, Machine Learning, ETL, SQL",3,Bachelor
+827,Candidate_827,"Spring Boot, NLP, Java, CSS",7,Master
+828,Candidate_828,"SQL, CSS, Java, Machine Learning",9,Bachelor
+829,Candidate_829,"Machine Learning, React, PowerBI, Docker",10,PhD
+830,Candidate_830,"Python, JavaScript, Machine Learning, NLP, ETL",12,Master
+831,Candidate_831,"JavaScript, Excel, Data Analysis, Kubernetes, SQL",6,PhD
+832,Candidate_832,"Python, Docker, AWS",2,PhD
+833,Candidate_833,"Docker, TensorFlow, SQL, Excel, ETL",4,Bachelor
+834,Candidate_834,"DevOps, Spring Boot, TensorFlow, AWS",5,Master
+835,Candidate_835,"NLP, DevOps, Kubernetes",5,Bachelor
+836,Candidate_836,"TensorFlow, DevOps, Docker, CSS",8,PhD
+837,Candidate_837,"Spring Boot, DevOps, Java, Docker",2,PhD
+838,Candidate_838,"HTML, PowerBI, Node.js, DevOps, CSS",11,Master
+839,Candidate_839,"HTML, Python, Node.js",12,Bachelor
+840,Candidate_840,"Machine Learning, PyTorch, HTML",1,Master
+841,Candidate_841,"JavaScript, C++, Node.js, PyTorch, Kubernetes",11,Bachelor
+842,Candidate_842,"Deep Learning, Microservices, CSS",6,Master
+843,Candidate_843,"CI/CD, CSS, Python, Deep Learning, Machine Learning, ETL",10,Master
+844,Candidate_844,"AWS, C++, React, PowerBI, Node.js, Docker",11,Master
+845,Candidate_845,"TensorFlow, Excel, Kubernetes, AWS, Data Analysis",11,PhD
+846,Candidate_846,"AWS, React, Docker, Deep Learning",5,Bachelor
+847,Candidate_847,"Microservices, Deep Learning, ETL",1,Bachelor
+848,Candidate_848,"C++, DevOps, Microservices, Machine Learning",7,Master
+849,Candidate_849,"TensorFlow, NLP, Spring Boot",5,Bachelor
+850,Candidate_850,"Spring Boot, Machine Learning, Java, Python, C++, Microservices",3,Bachelor
+851,Candidate_851,"PowerBI, CI/CD, Node.js, Deep Learning",2,PhD
+852,Candidate_852,"Machine Learning, JavaScript, CSS, Docker, CI/CD",10,Bachelor
+853,Candidate_853,"Kubernetes, DevOps, Docker, Data Analysis, Deep Learning",5,Master
+854,Candidate_854,"PowerBI, Docker, Excel, AWS, C++",3,Bachelor
+855,Candidate_855,"Machine Learning, JavaScript, Microservices, Kubernetes",11,PhD
+856,Candidate_856,"Spring Boot, NLP, Machine Learning, C++, Node.js",7,Master
+857,Candidate_857,"CI/CD, Java, Node.js, ETL, CSS",7,Master
+858,Candidate_858,"C++, Microservices, NLP",7,PhD
+859,Candidate_859,"NLP, HTML, Machine Learning, C++, ETL",5,PhD
+860,Candidate_860,"CI/CD, Microservices, NLP",3,Bachelor
+861,Candidate_861,"HTML, Microservices, Spring Boot",9,Master
+862,Candidate_862,"C++, NLP, Machine Learning, ETL, SQL",3,Bachelor
+863,Candidate_863,"React, Java, SQL, CI/CD, Spring Boot",8,Bachelor
+864,Candidate_864,"Data Analysis, AWS, Machine Learning, Spring Boot, Docker, PowerBI",9,PhD
+865,Candidate_865,"NLP, DevOps, SQL, Machine Learning, Node.js, CI/CD",9,Bachelor
+866,Candidate_866,"Spring Boot, C++, PyTorch, Deep Learning, Machine Learning, Data Analysis",9,Bachelor
+867,Candidate_867,"DevOps, Microservices, C++",9,PhD
+868,Candidate_868,"CI/CD, React, Spring Boot, Docker, Deep Learning, CSS",8,Master
+869,Candidate_869,"AWS, NLP, Java, C++, CI/CD",6,Master
+870,Candidate_870,"Microservices, Deep Learning, Kubernetes, NLP, AWS",12,Master
+871,Candidate_871,"NLP, Excel, TensorFlow",12,Master
+872,Candidate_872,"JavaScript, CSS, Microservices",10,PhD
+873,Candidate_873,"Data Analysis, AWS, Spring Boot, CI/CD, PyTorch",4,PhD
+874,Candidate_874,"DevOps, Docker, CSS, React",4,Bachelor
+875,Candidate_875,"SQL, TensorFlow, Microservices",3,Master
+876,Candidate_876,"JavaScript, ETL, NLP, Docker, Deep Learning",10,Bachelor
+877,Candidate_877,"TensorFlow, Microservices, Spring Boot, Node.js",4,Master
+878,Candidate_878,"Excel, JavaScript, Python, Kubernetes, CI/CD, React",2,Bachelor
+879,Candidate_879,"Java, Microservices, Docker, HTML, PowerBI",1,Bachelor
+880,Candidate_880,"NLP, JavaScript, Java, ETL",1,Bachelor
+881,Candidate_881,"Microservices, Node.js, NLP, HTML, AWS",7,Master
+882,Candidate_882,"Python, Docker, Deep Learning, AWS, Java, CI/CD",9,Master
+883,Candidate_883,"ETL, HTML, C++",2,Bachelor
+884,Candidate_884,"JavaScript, CSS, NLP, PowerBI, AWS",10,Bachelor
+885,Candidate_885,"PowerBI, CSS, Spring Boot, Machine Learning, ETL",8,PhD
+886,Candidate_886,"SQL, PowerBI, React",8,Bachelor
+887,Candidate_887,"Microservices, ETL, Kubernetes, NLP",9,Bachelor
+888,Candidate_888,"AWS, React, Node.js, HTML",4,PhD
+889,Candidate_889,"CSS, SQL, PowerBI, ETL, TensorFlow",9,Bachelor
+890,Candidate_890,"Node.js, React, Deep Learning, C++, Data Analysis, Microservices",10,Bachelor
+891,Candidate_891,"JavaScript, ETL, Spring Boot, SQL",1,Master
+892,Candidate_892,"CI/CD, Deep Learning, AWS, Python, Java",6,Bachelor
+893,Candidate_893,"HTML, Data Analysis, DevOps, JavaScript, Node.js",5,Bachelor
+894,Candidate_894,"DevOps, Docker, Node.js",9,Master
+895,Candidate_895,"TensorFlow, HTML, Node.js",6,Master
+896,Candidate_896,"NLP, Deep Learning, PyTorch, Data Analysis, Microservices, Kubernetes",2,Master
+897,Candidate_897,"ETL, PowerBI, Docker, Node.js",7,PhD
+898,Candidate_898,"AWS, Node.js, SQL, PowerBI, Python",6,Master
+899,Candidate_899,"TensorFlow, Excel, AWS",10,Bachelor
+900,Candidate_900,"Deep Learning, Python, SQL, React",12,Master
+901,Candidate_901,"Node.js, JavaScript, TensorFlow, Microservices, HTML, Excel",11,PhD
+902,Candidate_902,"Machine Learning, Data Analysis, PowerBI, ETL",4,Bachelor
+903,Candidate_903,"Spring Boot, Excel, HTML, Java, AWS",9,Master
+904,Candidate_904,"ETL, React, Data Analysis, HTML",9,Master
+905,Candidate_905,"Kubernetes, JavaScript, Machine Learning, Excel, HTML, Python",11,PhD
+906,Candidate_906,"DevOps, JavaScript, Docker, Microservices",9,Master
+907,Candidate_907,"AWS, ETL, Docker, SQL",3,Bachelor
+908,Candidate_908,"CI/CD, C++, Node.js, Microservices, PyTorch, AWS",3,PhD
+909,Candidate_909,"ETL, Java, AWS, Data Analysis, JavaScript",7,PhD
+910,Candidate_910,"Spring Boot, JavaScript, CSS, AWS",3,Bachelor
+911,Candidate_911,"DevOps, Data Analysis, NLP",2,Master
+912,Candidate_912,"DevOps, React, Spring Boot, AWS",3,Master
+913,Candidate_913,"Node.js, DevOps, Python, PowerBI, Deep Learning, AWS",4,Bachelor
+914,Candidate_914,"React, Spring Boot, DevOps, Data Analysis, Python, PyTorch",7,Master
+915,Candidate_915,"Microservices, CI/CD, React",5,Bachelor
+916,Candidate_916,"HTML, Deep Learning, NLP",1,Master
+917,Candidate_917,"Excel, Spring Boot, PowerBI, Docker, Python, TensorFlow",12,Master
+918,Candidate_918,"Kubernetes, Node.js, PowerBI",2,Master
+919,Candidate_919,"Python, CSS, Microservices",3,PhD
+920,Candidate_920,"Spring Boot, Excel, Kubernetes, AWS",11,Master
+921,Candidate_921,"CI/CD, Docker, SQL, PowerBI, Kubernetes, Java",10,Master
+922,Candidate_922,"AWS, C++, PyTorch, Docker, Data Analysis",12,Bachelor
+923,Candidate_923,"TensorFlow, C++, Data Analysis, PowerBI",3,Master
+924,Candidate_924,"Python, React, Node.js",4,PhD
+925,Candidate_925,"ETL, Microservices, Docker",7,Bachelor
+926,Candidate_926,"Docker, C++, Deep Learning, React, Kubernetes, Java",2,PhD
+927,Candidate_927,"DevOps, PowerBI, SQL",4,Master
+928,Candidate_928,"AWS, TensorFlow, ETL, Excel, SQL",11,PhD
+929,Candidate_929,"Docker, CSS, ETL, HTML",8,Master
+930,Candidate_930,"CI/CD, TensorFlow, DevOps, Node.js, Python, Spring Boot",11,Bachelor
+931,Candidate_931,"C++, Node.js, TensorFlow, Microservices, PowerBI",3,Bachelor
+932,Candidate_932,"Machine Learning, CI/CD, Data Analysis, Deep Learning",8,Master
+933,Candidate_933,"Java, ETL, DevOps, React",11,Bachelor
+934,Candidate_934,"Python, ETL, Deep Learning, Java",1,Master
+935,Candidate_935,"Docker, CI/CD, PowerBI, TensorFlow, Deep Learning, NLP",6,PhD
+936,Candidate_936,"Docker, PowerBI, JavaScript",11,Master
+937,Candidate_937,"React, PyTorch, TensorFlow",1,Bachelor
+938,Candidate_938,"React, Deep Learning, AWS, Machine Learning",12,Master
+939,Candidate_939,"PyTorch, Node.js, Data Analysis, DevOps, Python",7,Master
+940,Candidate_940,"HTML, JavaScript, Docker, C++",5,PhD
+941,Candidate_941,"AWS, C++, ETL, HTML, Node.js",10,Master
+942,Candidate_942,"Excel, HTML, Docker",2,Master
+943,Candidate_943,"Spring Boot, Docker, NLP",6,PhD
+944,Candidate_944,"C++, Machine Learning, SQL, CSS, HTML, Spring Boot",6,Master
+945,Candidate_945,"Excel, Spring Boot, CSS, PyTorch",5,PhD
+946,Candidate_946,"JavaScript, Kubernetes, CI/CD, Spring Boot, Data Analysis",4,PhD
+947,Candidate_947,"Spring Boot, Docker, Kubernetes, Excel, SQL, C++",4,Bachelor
+948,Candidate_948,"CSS, PyTorch, Spring Boot, Java, Kubernetes, C++",9,Bachelor
+949,Candidate_949,"React, NLP, CSS, JavaScript",6,Master
+950,Candidate_950,"DevOps, HTML, ETL, AWS",1,Master
+951,Candidate_951,"React, DevOps, Docker",5,Master
+952,Candidate_952,"C++, Java, AWS",1,PhD
+953,Candidate_953,"HTML, TensorFlow, C++, Excel, ETL, DevOps",6,PhD
+954,Candidate_954,"CSS, PyTorch, Node.js, Deep Learning, ETL, Excel",7,PhD
+955,Candidate_955,"PowerBI, Spring Boot, Java, Microservices, TensorFlow, Python",4,Master
+956,Candidate_956,"Microservices, Excel, CI/CD, DevOps",1,Master
+957,Candidate_957,"ETL, Machine Learning, CSS, Node.js, Java, PowerBI",4,Bachelor
+958,Candidate_958,"Docker, DevOps, Machine Learning, Data Analysis",7,PhD
+959,Candidate_959,"Microservices, HTML, Spring Boot, JavaScript",1,Master
+960,Candidate_960,"SQL, CSS, React, PowerBI, DevOps",2,Master
+961,Candidate_961,"ETL, PowerBI, Kubernetes, NLP, DevOps",5,Master
+962,Candidate_962,"Machine Learning, Spring Boot, ETL, NLP, React",9,Bachelor
+963,Candidate_963,"Java, Data Analysis, CSS, Machine Learning, Node.js",6,PhD
+964,Candidate_964,"SQL, ETL, TensorFlow, Kubernetes, C++, Node.js",1,Master
+965,Candidate_965,"HTML, ETL, TensorFlow, NLP, DevOps, Python",9,PhD
+966,Candidate_966,"JavaScript, Docker, PyTorch, Python",5,Bachelor
+967,Candidate_967,"HTML, Excel, SQL, Data Analysis, Node.js",2,Master
+968,Candidate_968,"Kubernetes, JavaScript, PyTorch",12,Bachelor
+969,Candidate_969,"SQL, Java, TensorFlow",1,PhD
+970,Candidate_970,"C++, JavaScript, Python, Deep Learning",12,PhD
+971,Candidate_971,"TensorFlow, CI/CD, Microservices, C++, Docker, Python",12,Master
+972,Candidate_972,"JavaScript, C++, ETL",11,Bachelor
+973,Candidate_973,"Deep Learning, Node.js, Spring Boot, Docker, ETL",5,Bachelor
+974,Candidate_974,"Python, CI/CD, PyTorch, ETL",11,PhD
+975,Candidate_975,"C++, SQL, Microservices, CI/CD, Machine Learning, React",3,PhD
+976,Candidate_976,"Excel, ETL, Python, JavaScript, CI/CD, Spring Boot",11,Bachelor
+977,Candidate_977,"Kubernetes, CSS, Python, Spring Boot, C++",4,Master
+978,Candidate_978,"React, Excel, Microservices",8,Bachelor
+979,Candidate_979,"PyTorch, C++, AWS",8,Master
+980,Candidate_980,"Docker, CI/CD, SQL, NLP, ETL, Deep Learning",9,Bachelor
+981,Candidate_981,"JavaScript, Kubernetes, DevOps, Machine Learning, CI/CD",5,Master
+982,Candidate_982,"AWS, Deep Learning, C++, ETL, SQL, CSS",10,Master
+983,Candidate_983,"CSS, Machine Learning, Data Analysis, HTML, Kubernetes",3,PhD
+984,Candidate_984,"AWS, Excel, TensorFlow, NLP, C++, JavaScript",8,PhD
+985,Candidate_985,"Spring Boot, PowerBI, HTML",4,Master
+986,Candidate_986,"DevOps, Java, Docker, Data Analysis",4,PhD
+987,Candidate_987,"Spring Boot, React, PowerBI, AWS, CSS, Deep Learning",6,Master
+988,Candidate_988,"DevOps, CSS, C++, Microservices, AWS",6,Master
+989,Candidate_989,"C++, TensorFlow, SQL, CI/CD",10,Bachelor
+990,Candidate_990,"PowerBI, Microservices, Deep Learning, NLP, Data Analysis, DevOps",12,Bachelor
+991,Candidate_991,"Node.js, Data Analysis, React, NLP",6,PhD
+992,Candidate_992,"HTML, TensorFlow, Kubernetes, PyTorch, Machine Learning",8,Master
+993,Candidate_993,"HTML, C++, Kubernetes, JavaScript, CI/CD",10,Master
+994,Candidate_994,"PowerBI, Data Analysis, Excel, NLP, Microservices",5,Master
+995,Candidate_995,"Microservices, Data Analysis, AWS, Spring Boot, Docker, Excel",3,Master
+996,Candidate_996,"DevOps, Node.js, CI/CD",12,PhD
+997,Candidate_997,"PowerBI, Kubernetes, Deep Learning, Java",2,PhD
+998,Candidate_998,"Node.js, ETL, Machine Learning, Data Analysis, Excel",2,Master
+999,Candidate_999,"SQL, C++, JavaScript, Data Analysis, DevOps, Deep Learning",12,Master
+1000,Candidate_1000,"Excel, ETL, CSS, DevOps",11,Master
